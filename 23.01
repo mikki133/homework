@@ -1,0 +1,36 @@
+public class Main {
+    public static void main(String[] args)
+    {
+
+
+            System.out.print("В пустыне ");
+            System.out.print("чахлой ");
+            System.out.println("и скупой,");
+            System.out.print("На почве, ");
+            System.out.print("зноем ");
+            System.out.println("раскаленной,");
+            System.out.print("Анчар,");
+            System.out.print("как грозный ");
+            System.out.println("часовой,");
+            System.out.print("Стоит — ");
+            System.out.print("один ");
+            System.out.print("во всей ");
+            System.out.println("вселенной.");
+            System.out.println("   ");
+            System.out.print("Природа ");
+            System.out.print("жаждущих ");
+            System.out.println("степей");
+            System.out.print("Его ");
+            System.out.print("в день");
+            System.out.print("гнева ");
+            System.out.println("породила,");
+            System.out.print("И зелень ");
+            System.out.print("мертвую ");
+            System.out.println("ветвей");
+            System.out.print("И корни ");
+            System.out.print("ядом ");
+            System.out.print("напоила.");
+
+    }
+
+}
